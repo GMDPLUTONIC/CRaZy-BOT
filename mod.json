@@ -1,0 +1,11 @@
+{
+	"geode": "4.2.0",
+	"gd": {
+		"win": "2.2074"
+	},
+	"id": "gmp.crazy_bot",
+	"name": "CRaZy BOT",
+	"version": "v1.0.0",
+	"developer": "GMP",
+	"description": "A GDBot Using Its Own Format (CRaZy)."
+}
